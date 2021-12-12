@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\CRS_Dependencies\CRS_Dependencies\bin\Debug\CRS_Dependencies.dll
+C:\Users\USER\source\repos\CRS_Dependencies\CRS_Dependencies\bin\Debug\CRS_Dependencies.pdb
+C:\Users\USER\source\repos\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.dll
+C:\Users\USER\source\repos\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.pdb
